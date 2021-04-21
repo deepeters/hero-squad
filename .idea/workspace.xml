@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2b5bb-3401-4b27-bc5e-01925cc8dde3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Squad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/batman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/batman2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/flash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/flash2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/flash3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/wonder-woman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/hero-form.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squad-form.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squad.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/models/SquadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/HeroSquad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/models/HeroSquadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/HeroTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
@@ -28,15 +47,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rFnObdd6xxGU6eJtbbDYnMSAKK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../caesar-cipher" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hero/hero-squad" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,6 +75,10 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/public/css" />
+      <recent name="$PROJECT_DIR$/" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -77,7 +103,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618580673621</updated>
-      <workItem from="1618580678510" duration="2289000" />
+      <workItem from="1618580678510" duration="5797000" />
+      <workItem from="1619033883538" duration="1821000" />
+      <workItem from="1619036077679" duration="201000" />
+      <workItem from="1619036734769" duration="1146000" />
     </task>
     <servers />
   </component>
@@ -89,10 +118,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
