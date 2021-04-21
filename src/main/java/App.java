@@ -1,3 +1,4 @@
+import models.Hero;
 import models.Squad;
 
 import java.io.Console;
