@@ -1,34 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>{{#block "title"}}Blog{{/block}}</title>
+    <title>{{#block "title"}}Heroes{{/block}}</title>
 
     <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 </head>
 <body>
 <ul class="nav nav-tabs">
-    <li role="presentation" class="active"><a href="#">Home</a></li>
-    <li role="presentation"><a href="/posts">See All Posts</a></li>
-    <li role="presentation"><a href="/posts/new">Add a New Post</a></li>
+    <li role="presentation" class="active"><a href="/">Heroes</a></li>
+    <li role="presentation"><a href="/squad/new">Add Squad</a></li>
+    <li role="presentation"><a href="/hero/new">Add Hero</a></li>
 </ul>
 <div class="container">
-    <!--begin main template-->
-    <div class="page-header">
-        <img src="/public/images/casper-rubin-224229.jpg" width="70%">
-        <h1>Welcome to my Epicodus Blog. <small>A journey into code!</small></h1>
-    </div>
-
-    <div class="col-md-12">
-        {{#block "content"}}
-        {{/block}}
-
-    </div>
+    {{#block "content"}}
+    {{/block}}
 </div>
-<!--end main template-->
 {{#block "footer"}}
     <footer class="footer">
         <div class="container">
-            <p class="text-muted"><a href="/posts/delete">DELETE ALL POSTS</a></p>
         </div>
     </footer>
     </body>
