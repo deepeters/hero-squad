@@ -1,7 +1,15 @@
+import models.Squad;
+
 import java.io.Console;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+import static spark.Spark.*;
+import spark.template.handlebars.HandlebarsTemplateEngine;
+import spark.ModelAndView;
+
+import java.util.ArrayList;
 
 public class App {
     static int getHerokuAssignedPort() {
