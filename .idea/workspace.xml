@@ -7,7 +7,9 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +65,8 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/public/css" />
+      <recent name="$PROJECT_DIR$/src/main/resources/public" />
       <recent name="$PROJECT_DIR$/src/test/resources/public/css" />
       <recent name="$PROJECT_DIR$/" />
     </key>
@@ -107,7 +111,7 @@
       <workItem from="1619033883538" duration="1821000" />
       <workItem from="1619036077679" duration="201000" />
       <workItem from="1619036734769" duration="2805000" />
-      <workItem from="1619039599971" duration="674000" />
+      <workItem from="1619039599971" duration="1211000" />
     </task>
     <servers />
   </component>
