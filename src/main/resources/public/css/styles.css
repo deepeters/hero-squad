@@ -2,3 +2,28 @@ body {
     background-color: grey;
 }
 
+.nav {
+    background: transparent;
+    color: white;
+    position: fixed;
+    top: 0;
+    height: 60px;
+    line-height: 60px;
+    width: 100vw;
+    z-index: 10;
+    text-decoration: none;
+}
+
+.nav-wrapper {
+    margin: auto;
+    text-align: center;
+    width: 70%;
+} @media(max-width: 768px) {
+    .nav-wrapper {
+        width: 90%;
+    }
+} @media(max-width: 638px) {
+    .nav-wrapper {
+        width: 100%;
+    }
+}
