@@ -2,19 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f2b5bb-3401-4b27-bc5e-01925cc8dde3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hero-squad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/images/batman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/images/batman2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/images/flash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/images/flash2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/images/flash3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/images/wonder-woman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/hero-form.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/layout.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/squad-form.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/squad.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/.heroku-deploy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/system.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/batman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/batman2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/flash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/flash2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/flash3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/wonder-woman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/hero-form.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/layout.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/squad-form.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/squad.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-models.HeroTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-models.SquadTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/models.HeroTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/models.SquadTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/build.tgz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.HeroTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.SquadTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/models.HeroTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/models.SquadTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/hero-form.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/hero-form.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/squad-form.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/squad-form.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/squad.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/squad.hbs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -45,7 +101,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hero/hero-squad" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hero/Heroes" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -112,7 +168,8 @@
       <workItem from="1619036734769" duration="2805000" />
       <workItem from="1619039599971" duration="5211000" />
       <workItem from="1619069708861" duration="164000" />
-      <workItem from="1619070314169" duration="743000" />
+      <workItem from="1619070314169" duration="3059000" />
+      <workItem from="1619084535152" duration="3683000" />
     </task>
     <servers />
   </component>
