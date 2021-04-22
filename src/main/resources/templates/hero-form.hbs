@@ -6,17 +6,17 @@
 {{/block}}
 
 {{#partial "content"}}
-    <h1>Add a hero:</h1>
+    <h1>New Hero:</h1>
     <div class="container">
         <form action="/hero" method="post">
-            <label for="heroName">Enter the hero's name</label>
-            <input class="form-control" type="text" id="heroName" name="heroName">
-            <label for="heroPower">Enter the hero's super power</label>
-            <input class="form-control" type="text" id="heroPower" name="heroPower">
-            <label for="heroWeakness">Enter the hero's weakness</label>
-            <input class="form-control" type="text" id="heroWeakness" name="heroWeakness">
-            <label for="heroAge">Enter the hero's age</label>
-            <input class="form-control" type="text" id="heroAge" name="heroAge">
+            <label for="heroName">Hero's name</label>
+            <input class="form-control" type="text" id="heroName" name="heroName" placeholder="e.g.Batman">
+            <label for="heroPower">Hero's super power</label>
+            <input class="form-control" type="text" id="heroPower" name="heroPower" placeholder="e.g. Passion for Gotham">
+            <label for="heroWeakness">Hero's weakness</label>
+            <input class="form-control" type="text" id="heroWeakness" name="heroWeakness" placeholder="e.g Nan (Batman has no weakness)">
+            <label for="heroAge">Hero's age</label>
+            <input class="form-control" type="text" id="heroAge" name="heroAge" placeholder="e.g. 30">
             {{#if squads}}
                 {{#each squads}}
                     {{#if sizeCheck}}

@@ -16,7 +16,7 @@ This is a Java Application that allows the user to recruit a well-balanced team 
 ### Setup
 * To run the application, first install the java development kit from `https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html`
 * Install gradle.
-* Next clone the project using `$ git clone https://github.com/verisence/hero-squad` to your preferred folder.
+* Next clone the project using `$ git clone https://github.com/deepeters/hero-squad` to your preferred folder.
 * In the command prompt, navigate to cloned folder and use the following command to run the app `$ gradle run`
 * Open the browser and enter the address `localhost:4567`
 
