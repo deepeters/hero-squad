@@ -115,3 +115,8 @@ body {
     color: white;
     background-image: url('../images/flash3.jpg');
 }
+
+.text-warning {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    color: white;
+}
