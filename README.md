@@ -41,9 +41,9 @@ This is a Java Application that allows the user to recruit a well-balanced team 
 
 ### Frameworks Used
 1. Gradle
-2, Spark
+2. Spark
 
-###Libraries Used
+### Libraries Used
 1. Bootstrap
 2. Material Design Bootstrap.
 
