@@ -4,7 +4,7 @@
 ### Project Description
 This is a Java Application that allows the user to recruit a well-balanced team of superheros.
 
-<img src="images/hero-squad.png">
+<img src="/hero-squad.png">
 
 ### Setup Instructions
 # User Stories
